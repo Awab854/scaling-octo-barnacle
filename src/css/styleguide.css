@@ -1,0 +1,77 @@
+:root { 
+  --black: #000000;
+  --fiord: #455a64;
+  --on-primary: #3f2e00;
+  --on-secondary: #00315f;
+  --on-tertiary: #003733;
+  --primary: #f9bd00;
+  --secondary: #a4c9ff;
+  --tertiary: #50dacf;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 23px;
+  --font-size-xxl: 38px;
+  --font-size-xxxl: 54px;
+  --font-size-xxxxl: 108px;
+ 
+  --font-family-fraunces: "Fraunces", Helvetica;
+  --font-family-lexend: "Lexend", Helvetica;
+}
+.headline-1 {
+  font-family: var(--font-family-fraunces);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -1.5px;
+}
+
+.headline-3 {
+  font-family: var(--font-family-fraunces);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.headline-4 {
+  font-family: var(--font-family-fraunces);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+}
+
+.headline-6 {
+  font-family: var(--font-family-fraunces);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.15px;
+}
+
+.subtitle-1 {
+  font-family: var(--font-family-fraunces);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+}
+
+.body-1 {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.button {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 1.25px;
+}

@@ -1,0 +1,1631 @@
+/* screen - desktop */
+
+.desktop {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2117px;
+  min-width: 1240px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop .header-dg6U5x {
+  background-color: var(--primary);
+  height: 1218px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.desktop .nav-bar-srN1s4 {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.desktop .vector-xSxTr8 {
+  background-color: transparent;
+  height: 45px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.desktop .our-story-xSxTr8 {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 20px;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.desktop .hero-srN1s4 {
+  background-color: transparent;
+  height: 823px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 81px;
+  width: 1240px;
+}
+
+.desktop .online-store-offline-payment-wLq2ka {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: calc(50.00% - 620px);
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  width: 620px;
+}
+
+.desktop .load-09-1-wLq2ka {
+  background-color: transparent;
+  height: 412px;
+  left: 620px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 205px;
+  width: 620px;
+}
+
+.desktop .frame-14-srN1s4 {
+  background-color: transparent;
+  height: 114px;
+  left: 93px;
+  position: absolute;
+  top: 904px;
+  width: 1054px;
+}
+
+.desktop .not-just-the-only-pl-9uQYj4 {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: 94px;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 1054px;
+}
+
+.desktop .catalog-dg6U5x {
+  background-color: var(--white);
+  height: 312px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1218px;
+  width: 1240px;
+}
+
+.desktop .frame-9-lqmups {
+  background-color: var(--secondary);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.desktop .the-catalog-EzglxX {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.desktop .frame-3-lqmups {
+  background-color: var(--secondary);
+  height: 245px;
+  left: calc(50.00% - 620px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 67px;
+  width: 1240px;
+}
+
+.desktop .juju-Blmhyh {
+  background-color: transparent;
+  height: 211px;
+  left: 276px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.desktop .frame-6-rcZr2U {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 163px;
+}
+
+.desktop .jujutsu-kaisen-orsBfE {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.desktop .x2258-540_th_wsj_-ju-rcZr2U {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.desktop .one-Blmhyh {
+  background-color: transparent;
+  height: 211px;
+  left: 512px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.desktop .frame-5-8ZFMOn {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 109px;
+}
+
+.desktop .one-piece-7s8OEU {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.desktop .x526-series-thumb_op_400x320-1-8ZFMOn {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.desktop .demon-Blmhyh {
+  background-color: transparent;
+  height: 211px;
+  left: 748px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.desktop .frame-4-e6242E {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 146px;
+}
+
+.desktop .demon-slayer-zmDPXN {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.desktop .x1880-series-thumbnai-e6242E {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.desktop .frame-12-dg6U5x {
+  background-color: var(--tertiary);
+  height: 365px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1530px;
+  width: 1240px;
+}
+
+.desktop .frame-12-sklSh3 {
+  background-color: transparent;
+  height: 157px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  width: 1200px;
+}
+
+.desktop .next-level-5GiB6U {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 478px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.desktop .online-shopping-was-5GiB6U {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 410px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: 379px;
+}
+
+.desktop .logos-sklSh3 {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 1200px;
+}
+
+.desktop .vector-0pZiW3 {
+  background-color: transparent;
+  height: 70px;
+  left: 375px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.desktop .vector-x0L9ua {
+  background-color: transparent;
+  height: 56px;
+  left: 565px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 70px;
+}
+
+.desktop .vector-UTvuRR {
+  background-color: transparent;
+  height: 70px;
+  left: 755px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.desktop .frame-8-sklSh3 {
+  background-color: transparent;
+  height: 28px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 247px;
+  width: 1200px;
+}
+
+.desktop .simple-6iLVXj {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 370px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.desktop .fast-6iLVXj {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 570px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.desktop .safe-6iLVXj {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 760px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.desktop .frame-10-sklSh3 {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 275px;
+  width: 1200px;
+}
+
+.desktop .only-pay-once-you-receive-meLYtY {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 360px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.desktop .x48-hour-delivery-meLYtY {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 560px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.desktop .just-send-your-location-meLYtY {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 760px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.desktop .frame-13-dg6U5x {
+  background-color: var(--fiord);
+  height: 222px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1895px;
+  width: 1240px;
+}
+
+.desktop .full-catalog-pricing-and-ordering-S8Thsh {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: 28px;
+  left: 432px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.desktop .whats-app_-logo_7-1-S8Thsh {
+  background-color: transparent;
+  height: 154px;
+  left: 528px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 184px;
+}
+/* screen - mobile */
+
+.mobile {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2265px;
+  min-width: 417px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .header-LP8vkM {
+  background-color: var(--primary);
+  height: 884px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 417px;
+}
+
+.mobile .nav-bar-mzUr9p {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 417px;
+}
+
+.mobile .vector-1CZIpz {
+  background-color: transparent;
+  height: 45px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.mobile .our-story-1CZIpz {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 20px;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.mobile .hero-mzUr9p {
+  background-color: transparent;
+  height: 803px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 81px;
+  width: 417px;
+}
+
+.mobile .load-09-1-i1xoRk {
+  background-color: transparent;
+  height: 312px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 366px;
+}
+
+.mobile .online-store-offline-payment-i1xoRk {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 188px);
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 412px;
+  width: 295px;
+}
+
+.mobile .not-just-the-only-pl-i1xoRk {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 713px;
+  width: 377px;
+}
+
+.mobile .catalog-LP8vkM {
+  background-color: var(--white);
+  height: 774px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 884px;
+  width: 417px;
+}
+
+.mobile .frame-9-kW8d9y {
+  background-color: var(--secondary);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 417px;
+}
+
+.mobile .the-catalog-0gxpNf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.mobile .frame-3-kW8d9y {
+  background-color: var(--secondary);
+  height: 707px;
+  left: calc(50.00% - 208px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 67px;
+  width: 417px;
+}
+
+.mobile .juju-7zkYrG {
+  background-color: transparent;
+  height: 211px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.mobile .frame-6-Wm2F0r {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 163px;
+}
+
+.mobile .jujutsu-kaisen-x3tw1I {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.mobile .x2258-540_th_wsj_-ju-Wm2F0r {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.mobile .one-7zkYrG {
+  background-color: transparent;
+  height: 211px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 248px;
+  width: 216px;
+}
+
+.mobile .frame-5-GB3Hub {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 109px;
+}
+
+.mobile .one-piece-qqx11Q {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.mobile .x526-series-thumb_op_400x320-1-GB3Hub {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.mobile .demon-7zkYrG {
+  background-color: transparent;
+  height: 211px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 479px;
+  width: 216px;
+}
+
+.mobile .frame-4-Q8pOcK {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 146px;
+}
+
+.mobile .demon-slayer-XnttPr {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.mobile .x1880-series-thumbnai-Q8pOcK {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.mobile .frame-7-LP8vkM {
+  background-color: var(--tertiary);
+  height: 405px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1658px;
+  width: 417px;
+}
+
+.mobile .frame-12-YcIdIo {
+  background-color: transparent;
+  height: 197px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  width: 377px;
+}
+
+.mobile .next-level-9mY1lj {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mobile .online-shopping-was-9mY1lj {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  width: 254px;
+}
+
+.mobile .logos-YcIdIo {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 217px;
+  width: 377px;
+}
+
+.mobile .vector-lJHScO {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .vector-I2K8Xx {
+  background-color: transparent;
+  height: 56px;
+  left: 154px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 70px;
+}
+
+.mobile .vector-RXMtuu {
+  background-color: transparent;
+  height: 70px;
+  left: 307px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .frame-8-YcIdIo {
+  background-color: transparent;
+  height: 28px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 287px;
+  width: 377px;
+}
+
+.mobile .simple-PRSh5W {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.mobile .fast-PRSh5W {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 158px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .safe-PRSh5W {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 307px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .frame-10-YcIdIo {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 315px;
+  width: 377px;
+}
+
+.mobile .only-pay-once-you-receive-FpGxa6 {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.mobile .x48-hour-delivery-FpGxa6 {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 148px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.mobile .just-send-your-location-FpGxa6 {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 297px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.mobile .frame-11-LP8vkM {
+  background-color: var(--fiord);
+  height: 222px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2063px;
+  width: 417px;
+}
+
+.mobile .full-catalog-pricing-and-ordering-yi0efr {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: 28px;
+  left: 20px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.mobile .whats-app_-logo_7-1-yi0efr {
+  background-color: transparent;
+  height: 154px;
+  left: 116px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 184px;
+}
+/* screen - tablet */
+
+.tablet {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1687px;
+  min-width: 834px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .header-I45tVA {
+  background-color: transparent;
+  height: 788px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 834px;
+}
+
+.tablet .nav-bar-hIWbTx {
+  background-color: var(--primary);
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 834px;
+}
+
+.tablet .vector-eMeHDt {
+  background-color: transparent;
+  height: 45px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 45px;
+}
+
+.tablet .our-story-eMeHDt {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 20px;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.tablet .hero-hIWbTx {
+  background-color: var(--primary);
+  height: 707px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 81px;
+  width: 834px;
+}
+
+.tablet .online-store-offline-payment-p2S3sn {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 326px);
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 672px;
+}
+
+.tablet .load-09-1-p2S3sn {
+  background-color: transparent;
+  height: 412px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 169px;
+  width: 814px;
+}
+
+.tablet .not-just-the-only-pl-p2S3sn {
+  background-color: transparent;
+  color: var(--on-primary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 188px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 617px;
+  width: 477px;
+}
+
+.tablet .catalog-I45tVA {
+  background-color: var(--white);
+  height: 312px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 788px;
+  width: 834px;
+}
+
+.tablet .frame-9-okRjO2 {
+  background-color: var(--secondary);
+  height: 67px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 834px;
+}
+
+.tablet .the-catalog-uF1eTj {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.tablet .frame-3-okRjO2 {
+  background-color: var(--secondary);
+  height: 245px;
+  left: calc(50.00% - 417px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 67px;
+  width: 834px;
+}
+
+.tablet .juju-VJeIvu {
+  background-color: transparent;
+  height: 211px;
+  left: 73px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.tablet .frame-6-qHl61Q {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 163px;
+}
+
+.tablet .jujutsu-kaisen-scBJmi {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.tablet .x2258-540_th_wsj_-ju-qHl61Q {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.tablet .one-VJeIvu {
+  background-color: transparent;
+  height: 211px;
+  left: 309px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.tablet .frame-5-dXOauN {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 109px;
+}
+
+.tablet .one-piece-XROZ8x {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.tablet .x526-series-thumb_op_400x320-1-dXOauN {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.tablet .demon-VJeIvu {
+  background-color: transparent;
+  height: 211px;
+  left: 545px;
+  overflow: hidden;
+  position: absolute;
+  top: 17px;
+  width: 216px;
+}
+
+.tablet .frame-4-axqfsc {
+  background-color: var(--on-secondary);
+  border-radius: 60px;
+  height: 38px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 146px;
+}
+
+.tablet .demon-slayer-vLC6T9 {
+  background-color: transparent;
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.tablet .x1880-series-thumbnai-axqfsc {
+  background-color: transparent;
+  height: 170px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 210px;
+}
+
+.tablet .frame-7-I45tVA {
+  background-color: var(--tertiary);
+  height: 365px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1100px;
+  width: 834px;
+}
+
+.tablet .frame-12-LxaixH {
+  background-color: transparent;
+  height: 157px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  width: 794px;
+}
+
+.tablet .next-level-dm6xdl {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 276px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.tablet .online-shopping-was-dm6xdl {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 208px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: 379px;
+}
+
+.tablet .logos-LxaixH {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 794px;
+}
+
+.tablet .vector-W03VqS {
+  background-color: transparent;
+  height: 70px;
+  left: 232px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.tablet .vector-X21ypU {
+  background-color: transparent;
+  height: 56px;
+  left: 362px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 70px;
+}
+
+.tablet .vector-B3Wxxf {
+  background-color: transparent;
+  height: 70px;
+  left: 492px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.tablet .frame-8-LxaixH {
+  background-color: transparent;
+  height: 28px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 247px;
+  width: 794px;
+}
+
+.tablet .simple-TH0jsq {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 227px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.tablet .fast-TH0jsq {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 367px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.tablet .safe-TH0jsq {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 497px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 70px;
+}
+
+.tablet .frame-10-LxaixH {
+  background-color: transparent;
+  height: 70px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 275px;
+  width: 794px;
+}
+
+.tablet .only-pay-once-you-receive-AxhCmi {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 217px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.tablet .x48-hour-delivery-AxhCmi {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 357px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.tablet .just-send-your-location-AxhCmi {
+  background-color: transparent;
+  color: var(--on-tertiary);
+  font-style: normal;
+  font-weight: 400;
+  height: 70px;
+  left: 497px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 80px;
+}
+
+.tablet .frame-11-I45tVA {
+  background-color: var(--fiord);
+  height: 222px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1465px;
+  width: 834px;
+}
+
+.tablet .full-catalog-pricing-and-ordering-aXxXv1 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: 28px;
+  left: 228px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.tablet .whats-app_-logo_7-1-aXxXv1 {
+  background-color: transparent;
+  height: 154px;
+  left: 325px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 184px;
+}
+@media screen and (max-width: 833px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 834px) and (max-width: 1239px) {
+  .screen.mobile { 
+    display: none;
+   }
+  .screen.desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1240px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.mobile { 
+    display: none;
+   }
+}
